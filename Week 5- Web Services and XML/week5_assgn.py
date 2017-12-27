@@ -8,11 +8,7 @@ Created on Wed Dec 27 16:09:16 2017
 import urllib.request, urllib.parse, urllib.error
 import xml.etree.ElementTree as ET
 
-sample_url = 'http://py4e-data.dr-chuck.net/comments_42.xml'
-actual_url = 'http://py4e-data.dr-chuck.net/comments_37088.xml'
-
 url = input('Enter location: ')
-#url = sample_url
 print('Retrieving', url)
 uh = urllib.request.urlopen(url)
 data = uh.read()
