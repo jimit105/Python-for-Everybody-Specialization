@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Python for Everybody Specialization
 =======
 # Using Python to Access Web Data
@@ -10,6 +11,9 @@
 =======
 # Using Python to Access Web Data (Coursera)
 >>>>>>> 944a25f... Update README.md
+=======
+# Capstone: Retrieving, Processing, and Visualizing Data with Python
+>>>>>>> e0ae3cb... Update README.md
 
 #### *Jimit Dholakia*
 
@@ -19,8 +23,12 @@
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Coursera Course Link: https://www.coursera.org/learn/python-network-data
 >>>>>>> c14584c... Update README.md
 =======
 Course Link: https://www.coursera.org/learn/python-network-data
 >>>>>>> 944a25f... Update README.md
+=======
+Course Link: https://www.coursera.org/learn/python-data-visualization
+>>>>>>> e0ae3cb... Update README.md
