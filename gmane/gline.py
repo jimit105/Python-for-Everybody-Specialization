@@ -40,7 +40,7 @@ for (message_id, message) in list(messages.items()):
     if len(pieces) != 2 : continue
     dns = pieces[1]
     if dns not in orgs : continue
-    month = message[3][:7]
+    month = message[3][5:7]
     if month not in months : months.append(month)
     key = (month, dns)
     counts[key] = counts.get(key,0) + 1
