@@ -7,7 +7,7 @@
 
 ---
 
-Link: https://www.coursera.org/specializations/python
+Specialization Link: https://www.coursera.org/specializations/python
 
 ---
 
